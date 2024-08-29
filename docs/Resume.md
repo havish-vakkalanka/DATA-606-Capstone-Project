@@ -1,5 +1,7 @@
 # Havish Manikya Vakkalanka
 
+![Headshot](./headshot.jpeg)
+
 **Email:** [havishmvakkalanka@gmail.com](mailto:havishmvakkalanka@gmail.com)  
 **LinkedIn:** [linkedin.com/in/havishmanikyav](https://www.linkedin.com/in/havishmanikyav)
 
