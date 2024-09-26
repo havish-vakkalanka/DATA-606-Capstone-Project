@@ -32,6 +32,7 @@ This project focuses on predicting the total medal count won by a country in the
 ## 3. Data
 
 ### Data Sources:
+Datasource link: [Olympic Historical Dataset from Olympedia](https://www.kaggle.com/datasets/josephcheng123456/olympic-historical-dataset-from-olympediaorg/data)
 * **Olympic Athlete Biography**: Personal details of athletes including height, weight, and birthdate.
 * **Olympic Medal Tally History**: Historical data on the number of medals won by each country in different Olympic editions.
 * **Olympic Games Summary**: Summary information about each Olympic event (year, city, etc.).
@@ -75,6 +76,12 @@ This project focuses on predicting the total medal count won by a country in the
 | year            | int           | Year of the Olympic event | N/A |
 | population      | float         | Population of the country during that year | N/A |
 | gdp             | float         | GDP of the country during that year | N/A |
+
+### Image:
+
+Here’s the data schema representing the datasets used for this project:
+
+![Olympic Data Schema](https://datas.fun/olympic.png)
 
 ### Target/Label:
 * The target variable for the prediction task is the **total number of medals** a country will win.
