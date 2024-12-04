@@ -1,0 +1,2 @@
+- `apprun.py`: This file contains the Streamlit code for the application.
+- `Capstone_final.ipynb`: This is the Jupyter Notebook for the project.
